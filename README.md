@@ -18,4 +18,4 @@ O objetivo é praticar estruturas de repetição, dicionários, tratamento de ex
 
 1. Execute o script em um terminal com Python 3:
    ```bash
-   python nome_do_arquivo.py
+   python Cadastro-CLI.py
